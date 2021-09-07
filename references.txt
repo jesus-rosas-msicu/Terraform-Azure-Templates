@@ -1,0 +1,1 @@
+https://owendavies.net/articles/create-azure-virtual-machine-with-terraform/#5-define-a-new-public-ip-address
